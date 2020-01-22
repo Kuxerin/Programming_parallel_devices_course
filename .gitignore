@@ -1,0 +1,13 @@
+*/[Bb]in/*.exe
+*/[Ll]ib/*
+
+*/CMakeFiles/*
+*/src/*/CMakeFiles/*
+*/src/*/*.cmake
+*/src/*/Makefile
+
+*/*.out
+*/*.cmake
+
+*/CMakeCache.txt
+*/Makefile
